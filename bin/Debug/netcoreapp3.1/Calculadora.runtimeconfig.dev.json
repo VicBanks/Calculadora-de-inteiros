@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Roseneide\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Roseneide\\.nuget\\packages"
+    ]
+  }
+}
